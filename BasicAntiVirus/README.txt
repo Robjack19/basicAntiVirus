@@ -5,7 +5,7 @@ Date:
 03/15/2023
 
 Description:
-Basic anti-virus that scans 'Downloads' directory and generates SHA256 hash which it checks using VirusTotal API.
+Basic anti-virus/malware scanner that scans 'Downloads' directory and generates SHA256 hash which it checks using VirusTotal API.
 
 LangaugesUsed:
 Windows batch scripts
