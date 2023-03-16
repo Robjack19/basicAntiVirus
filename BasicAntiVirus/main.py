@@ -53,7 +53,7 @@ time.sleep(0.5)
 
 #delete files
 print("Deleting un-necessary files...")
-subprocess.call([r'.\delfiles.bat'])
+subprocess.call([r'.\delFiles.bat'])
 time.sleep(0.5)
 
 #create result.html
